@@ -1,9 +1,7 @@
 # Force
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=10000&color=F70000&center=true&vCenter=true&multiline=true&width=600&lines=Mr%2C+Younis+John+Follow+My+GitHub+For+Next+Update+Tolls%F0%9F%98%87%F0%9F%98%87)](https://git.io/typing-svg)
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Force2/blob/main/193396293-bcd278aa-6d0c-4681-8a06-9c4fa83880f2.gif)
-
+![logo](https://i.postimg.cc/pXDWHY6D/Screenshot-20200930-062011-Chrome.jpg)
 * **Visitor Github @YounisJohn**
 ![YounisJohn](https://komarev.com/ghpvc/?username=YounisJohn&color=blue)
 
