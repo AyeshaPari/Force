@@ -1,8 +1,5 @@
 # Force
 
-<p align="center"><img src="https://img.shields.io/badge/I Am %20A PAKISTAN- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=YOUNIS-JOHN-ERRORXX3;+It's+Not+Just+My+Name;It's+A+Brand)](https://git.io/typing-svg)
- - ![Alt text](https://github.com/YounisJohn/Force/blob/main/md7Oqrf.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=10000&color=F70000&center=true&vCenter=true&multiline=true&width=600&lines=Mr%2C+Younis+John+Follow+My+GitHub+For+Next+Update+Tolls%F0%9F%98%87%F0%9F%98%87)](https://git.io/typing-svg)
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Force2/blob/main/193396293-bcd278aa-6d0c-4681-8a06-9c4fa83880f2.gif)
